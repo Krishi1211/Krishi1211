@@ -38,17 +38,20 @@
 
 ---
 
-## 📈 GitHub Stats (Live)
+## 📈 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishishah1211&show_icons=true&count_private=true&hide_title=true&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=krishishah1211&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishi1211&show_icons=true&count_private=true&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=krishi1211&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishishah1211&layout=compact&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishi1211&layout=compact&langs_count=8&hide_border=true&cache_seconds=7200" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishishah1211&theme=flat&row=1&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishi1211&theme=flat&row=1&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
@@ -68,7 +71,7 @@
 ## 🐍 Contribution Graph (Animated)
 > Enable the “snake” by adding the workflow below to your repo (it’ll auto-generate the SVG).
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishishah1211/krishishah1211/output/snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/krishi1211/krishi1211/output/snake.svg" alt="snake gif" />
 </p>
 
 ---
