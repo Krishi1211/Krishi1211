@@ -1,29 +1,104 @@
-## Hi there 👋
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Krishi+Shah+%F0%9F%91%8B;MSCS+@+UC+Davis+%7C+Software+Developer;AI+%2B+Full-Stack+%2B+Systems+Enthusiast;Always+building%2C+always+learning" alt="Typing SVG" />
+</p>
 
-<!--
-**Krishi1211/Krishi1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:krishishah1211@gmail.com"><img src="https://img.shields.io/badge/Email-krishishah1211%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/krishishah1211/"><img src="https://img.shields.io/badge/LinkedIn-Krishi%20Shah-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://komarev.com/ghpvc/?username=krishishah1211&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
+## 👋 About Me
+- 🎓 **Incoming MSCS @ UC Davis** • **B.E. Computer Engineering** (Distinction, CGPA 9.41/10)
+- 💡 I build AI-driven and full-stack systems that are **fast, scalable, and user-focused**
+- 🏆 Hackathons: **2nd Runner-up @ Recursion 5.0** for *Travel Beyond* (AI travel planner)
+- 🎙️ Host of **Tech Talks** — conversations on innovation & engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🚀 Highlight Projects
+- **Prometheus** — *Multi-modal AI content generation* (text/code/music/image/video)  
+  `Next.js • OpenAI • LangChain • Auth • Usage tracking`
+- **Travel Beyond** — *Real-time AI travel planner*  
+  `Django • React • MongoDB • Image Recognition • NLP • TTS`
+- **MERN Finance Guru** — *Personal finance dashboards & bill tracking*  
+  `Mongo • Express • React • Node • Tailwind`
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krishi1211&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Krishi1211&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishi1211&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> 🔗 Pin your repos so they show up here: **Settings → Repositories → Pin**
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Krishi1211&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Krishi1211&theme=onedark&no-frame=false&no-bg=false&margin-w=2)
+## 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,react,nextjs,redux,nodejs,express,django,fastapi,html,css,tailwind,mui,postgres,mongodb,redis,prisma,docker,git,linux,vscode,vercel" />
+</p>
+
+---
+
+## 📈 GitHub Stats (Live)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishishah1211&show_icons=true&count_private=true&hide_title=true&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=krishishah1211&hide_border=true" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishishah1211&layout=compact&hide_border=true&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishishah1211&theme=flat&row=1&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🧪 What I’m Exploring
+- ⚙️ **Low-latency systems** & backend performance
+- 🧠 **LLM tooling** (RAG, function calling, evals)
+- ☁️ **Cloud deploys** with CI/CD and observability
+
+---
+
+## 💬 Let’s Connect
+- 💼 Open to **SWE/ML** internships, research collabs, and podcast guests
+- 📫 **Email:** `krishishah1211@gmail.com` • **LinkedIn:** `/in/krishishah1211/`
+
+---
+
+## 🐍 Contribution Graph (Animated)
+> Enable the “snake” by adding the workflow below to your repo (it’ll auto-generate the SVG).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishishah1211/krishishah1211/output/snake.svg" alt="snake gif" />
+</p>
+
+---
+
+## ⚡ Quick Start (Copy-Paste)
+<details>
+<summary>How to enable the Snake contribution animation</summary>
+
+1. Create a repo named **`krishishah1211/krishishah1211`** (same as your username).  
+2. Add this GitHub Action: `.github/workflows/snake.yml`
+   
+```yml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["main"] }
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: krishishah1211
+          outputs: |
+            dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
