@@ -27,7 +27,7 @@
 - **MERN Finance Guru** — *Personal finance dashboards & bill tracking*  
   `Mongo • Express • React • Node • Tailwind`
 
-> 🔗 Pin your repos so they show up here: **Settings → Repositories → Pin**
+
 
 ---
 
