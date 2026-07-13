@@ -15,7 +15,6 @@
 - 🎓 **MSCS @ UC Davis** • **B.E. Computer Engineering** (Distinction, CGPA 9.41/10)
 - 💡 I build AI-driven and full-stack systems that are **fast, scalable, and user-focused**
 - 🏆 Hackathons: **2nd Runner-up @ Recursion 5.0** for *Travel Beyond* (AI travel planner)
-- 🎙️ Host of **Tech Talks** — conversations on innovation & engineering
 
 ---
 
